@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # displY
 i=1
 until [ $i -gt 10 ]
